@@ -14,6 +14,6 @@ public class Ensayocontrolador {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("olaaaaaa");
+        System.out.print("WENDY");
     }
 }
